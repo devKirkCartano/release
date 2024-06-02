@@ -1,3 +1,12 @@
+# [2.3.0](https://github.com/devKirkCartano/release/compare/v2.2.2...v2.3.0) (2024-06-02)
+
+
+### Features
+
+*  Added Row 2 ([4be02d8](https://github.com/devKirkCartano/release/commit/4be02d811828ed9ba85e36d081c3c5b135f570e6))
+* Added row 1 ([b08989c](https://github.com/devKirkCartano/release/commit/b08989cd3f2023b24cb4f21351b887853ca85491))
+* added row 3 ([de723c9](https://github.com/devKirkCartano/release/commit/de723c9c18f28f5223bd831239148c78e30aa075))
+
 ## [2.2.2](https://github.com/devKirkCartano/release/compare/v2.2.1...v2.2.2) (2024-06-02)
 
 
