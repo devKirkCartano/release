@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/devKirkCartano/release/compare/v2.1.0...v2.2.0) (2024-06-02)
+
+
+### Features
+
+* added config fucntionality ([a2dc9ad](https://github.com/devKirkCartano/release/commit/a2dc9adee577f1778d167566f1290d60c347a9b5))
+
 # [2.1.0](https://github.com/devKirkCartano/release/compare/v2.0.0...v2.1.0) (2024-06-02)
 
 
