@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/devKirkCartano/release/compare/v2.2.1...v2.2.2) (2024-06-02)
+
+
+### Bug Fixes
+
+* bug fixes from 2.2.1 ([11168d4](https://github.com/devKirkCartano/release/commit/11168d4cc50a87cd4e5d0d66602395d7700f95a5))
+
 ## [2.2.1](https://github.com/devKirkCartano/release/compare/v2.2.0...v2.2.1) (2024-06-02)
 
 
