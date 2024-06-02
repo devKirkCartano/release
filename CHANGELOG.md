@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/devKirkCartano/release/compare/v1.2.0...v2.0.0) (2024-06-02)
+
+
+* feat!: add new background color ([506e6db](https://github.com/devKirkCartano/release/commit/506e6db659f6b22647f6765469f772abd588f7c5))
+
+
+### BREAKING CHANGES
+
+* this color is breaking the old system
+
 # [1.2.0](https://github.com/devKirkCartano/release/compare/v1.1.0...v1.2.0) (2024-06-02)
 
 
