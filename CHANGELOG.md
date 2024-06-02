@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/devKirkCartano/release/compare/v1.2.0...v1.3.0) (2024-06-02)
+
+
+### Features
+
+* added style ([4d96260](https://github.com/devKirkCartano/release/commit/4d96260550b3d7069e85bba0b3aca7e505e57038))
+
 # [1.2.0](https://github.com/devKirkCartano/release/compare/v1.1.0...v1.2.0) (2024-06-02)
 
 
